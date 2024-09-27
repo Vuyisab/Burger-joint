@@ -30,7 +30,8 @@ export default tseslint.config(
         'quotes': ['error', 'single'],
         'semi': ['error', 'always'],
         'space-before-function-paren': ['error', 'always'],
-        'comma-dangle': ['error', 'always-multiline']
+        'comma-dangle': ['error', 'always-multiline'],
+        'max-len': ['error', { 'code': 120 }],
     },
   },
 )

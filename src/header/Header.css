@@ -1,0 +1,14 @@
+.background-container {
+    width: 100%;
+    height: 300px;
+    background-image: url('https://s3-alpha-sig.figma.com/img/8453/64ec/acaeaea44c5e3a8cd7159c5d52f26662?Expires=1728259200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dT1vrGapJ1zwqFjz9GX470~TDp7Q2pf~tepXT7AczoRNcgOzYit2DfPsw04gumN2djk5FMogAHJTdlY~VlTktFADJ1Ov-TbGFljsxDlg9zXLTzCXeiBYjYKUbtOe9Veg2eNOh5HUTGo5NF5iQGcXPO7kUr45y~ieF5yDVhKNHhk4H4Hsufpj1ULcSUBFEf-BiZ6aM7S1lmme2v~Z-EDnNZF1zaP1gSgOingReqXUHsntccYoK92od8~rM3-DH8OatyIohbxVVD8VutfjDhS1BGLPM4qXhIHBRVMZSnKLTs8q0oX0Arw0FklhpaspM1URu2rt3B4ryXjulQEMi0q0mg');
+    background-size: cover;
+    background-position: center;
+}
+
+.text-overlay {
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 2rem;
+}
